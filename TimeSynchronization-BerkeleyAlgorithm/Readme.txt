@@ -8,7 +8,7 @@ Assignment:	Time Synchronization (Berkeley algorithm)
 Description:	
 ============
 The assignment demonstrate the use of Berkeley algorithm for synchronizing time 
-among multiple processes running with different tick.0
+among multiple processes running with different tick.
 My assignment solution consists of the following files:
 - masterSlave_TimeSync.go
 - slaves.txt (sample input file for master)
